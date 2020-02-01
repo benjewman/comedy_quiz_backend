@@ -1,0 +1,2 @@
+class BitsController < ApplicationController
+end
